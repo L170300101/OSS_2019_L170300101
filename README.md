@@ -39,7 +39,7 @@ __Why there's no Burgerking in school cafeteria__
   
 Table  
 First Header|Second Header  
-------------|--------------  
+------------|------------  
 Content cell1|Content cell2  
 Content column1|Content column2  
   
@@ -48,8 +48,8 @@ Check box
 [] ss  
 
 Inline code  
-can add some 'Code' in the middle of sentense  
-For example, 'print("Hello world");` like this.  
+can add some `Code` in the middle of sentense  
+For example, `print("Hello world");` like this.  
 
 Hr
 ---
